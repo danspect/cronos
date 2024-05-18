@@ -6,7 +6,6 @@ from cronos.utils import (
     minutes_to_seconds,
 )
 import time
-from tkinter import *
 
 class App:
     def __init__(self) -> None:
